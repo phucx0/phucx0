@@ -1,12 +1,10 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Kevin&fontSize=72&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Developer%20%7C%20Building%20things%20that%20matter&descAlignY=55&descSize=16" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,10&height=180&section=header&text=Kevin&fontSize=72&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Developer%20%7C%20Building%20things%20that%20matter&descAlignY=55&descSize=16" />
 
 <!-- Typing SVG -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=5B8AF5&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Kevin+%F0%9F%91%8B;Full-Stack+Developer;Node.js+%7C+TypeScript+%7C+Flutter;Always+learning%2C+always+building+%F0%9F%9A%80" alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=5B8AF5&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Kevin+%F0%9F%91%8B;Full-Stack+Developer;Node.js+%7C+TypeScript+%7C+Flutter;Always+learning%2C+always+building+%F0%9F%9A%80" alt="Typing SVG" />
 
 <br/>
 
@@ -25,7 +23,7 @@
 
 </div>
 
----
+<br/>
 
 <div align="center">
 
@@ -38,7 +36,7 @@
 
 </div>
 
----
+<br/><br/>
 
 <div align="center">
 
@@ -46,10 +44,8 @@
 
 <!-- Languages & Tools -->
 <p>
-  <img src="https://img.shields.io/badge/Public%20Repos-📦-5B8AF5?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117"/>
-  &nbsp;
   <a href="https://github.com/phucx0?tab=repositories">
-    <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/phucx0&query=public_repos&label=Repos&style=for-the-badge&color=5B8AF5&labelColor=1e2a45&logo=github&logoColor=white" alt="Public Repos"/>
+    <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/phucx0&query=public_repos&label=Public%20Repos&style=for-the-badge&color=5B8AF5&labelColor=1e2a45&logo=github&logoColor=white" alt="Public Repos"/>
   </a>
 </p>
 
@@ -83,44 +79,32 @@
 
 </div>
 
----
+<br/><br/>
 
 <div align="center">
 
-## 🗺️ Contribution Graph
+## Contribution Graph
 
-[![Kevin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=phucx0&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
-<div align="center">
-
-## Contribution Cells
-
-<img src="https://ghchart.rshah.org/5B8AF5/phucx0" alt="Kevin's Contribution Chart" width="100%"/>
+[![Kevin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=phucx0&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
----
+<br/><br/>
 
 <div align="center">
 
 ## Connect With Me
 
-<br/>
-
 <a href="https://github.com/phucx0">
   <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white&label=phucx0" alt="GitHub"/>
 </a>
 &nbsp;&nbsp;
-<a href="mailto:kevin@email.com">
-  <img src="https://img.shields.io/badge/Gmail-kevin%40email.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=c0392b" alt="Gmail"/>
+<a href="mailto:phamhoangphuc613p@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=c0392b" alt="Gmail"/>
 </a>
 &nbsp;&nbsp;
-<a href="https://linkedin.com/in/phucx0">
-  <img src="https://img.shields.io/badge/LinkedIn-Kevin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077b5" alt="LinkedIn"/>
+<a href="https://linkedin.com/in/hphucdev">
+  <img src="https://img.shields.io/badge/LinkedIn-hphucdev-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077b5" alt="LinkedIn"/>
 </a>
 
 <br/><br/>
@@ -129,27 +113,3 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
 
 </div>
-
-<!-- Snake animation workflow setup (add to .github/workflows/snake.yml):
-name: Generate Snake
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: phucx0
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
--->
